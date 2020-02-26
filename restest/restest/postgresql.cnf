@@ -1,0 +1,8 @@
+[client]
+HOST = postgres://ghjcpmoz:lQ9n_mpqPGxX5TumMLOWA62notw2MmJB@kandula.db.elephantsql.com
+NAME = ghjcpmoz
+database = ghjcpmoz
+port = 5432
+user = ghjcpmoz
+password = lQ9n_mpqPGxX5TumMLOWA62notw2MmJB
+default-character-set = utf8
